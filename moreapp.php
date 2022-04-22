@@ -1,5 +1,13 @@
 [
 {
+	"name": "뉴모피즘 스도쿠-스도쿠 퍼즐, 두뇌 게임, 숫자 게임",
+	"eng" : "Neumorphism SUDOKU PUZZLE",
+    "category": "Best",
+	"rating": 5.0,
+	"package_name": "com.offsong.sudoku_game",
+	"image": "https://play-lh.googleusercontent.com/MnV9gEDraCeKV6MNshN5FdY8OSO0Ps_6k5XjMxMPob8SvUaGK9wHyAM6SexkPWQnVS3T=w480-h960-rw"
+},
+{
 	"name": "귀멸의칼날 퀴즈게임",
 	"eng" : "Demon Slayer Quiz (Anime)",
     "category": "Best",
