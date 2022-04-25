@@ -168,6 +168,70 @@
 	"image": "https://play-lh.googleusercontent.com/QwO-32gGej4rB2SuV1_QgztKbACNQ0ZiFFuOxeu1rWEMgRoItAD6WeNXeo_9X2p__fs=w480-h960-rw"
 },
 {
+	"name": "박보검 HD 고화질 배경화면",
+	"eng" : "Park Bo-gum HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.bogum_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/kgUJ4-XnNPbfs_yfhfCkKAP2cE9SiBJYqXvhtV_9G8ptFpvc9Mp72jAKtZldF8tsImM=w480-h960-rw"
+},
+{
+	"name": "남주혁 HD 고화질 배경화면",
+	"eng" : "Nam Joo Hyuk HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.joohyuk_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/TulxCwzKzBNyI7fu9ifyU9zZ82q8owy-lL1kkdKO_OZfPWJlv8B2QGt8IaR7XJCG6w=w480-h960-rw"
+},
+{
+	"name": "문가영 HD 고화질 배경화면",
+	"eng" : "Mun Kayoung HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.kayoung_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/Erxc_EsO7MvUKZr_UL6PgqU4UyX-Dqy1TKnSnDKQRBrayymnYmQiKY27wL8pRy5_k4Ol=w480-h960-rw"
+},
+{
+	"name": "이민호 HD 고화질 배경화면",
+	"eng" : "Lee Minho HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.leeminho_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/nadhKUuhxFRG8aP_5UjMUQif0OjKvx6CluV05eUbPNaS1Up0w-8PXjqUgyJt2glHB43N=w480-h960-rw"
+},
+{
+	"name": "김세정 HD 고화질 배경화면",
+	"eng" : "Kim Sejeong HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.sejeong_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/IvgQnLT6EjFLvMrLq9o0FfDc6MSSG9cnVxB7eBcMRBFRL4KVcwnaQkNH0MGwzhPOf4SY=w480-h960-rw"
+},
+{
+	"name": "장기용 HD 고화질 배경화면",
+	"eng" : "Jang Ki-yong HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.kiyong_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/FMPC7M36grgRU9fuOqsmMVIT7TWjGwKRozMYW7YGUayECKRsbbGdRbqS7M9kd-cE1g=w480-h960-rw"
+},
+{
+	"name": "공유 HD 고화질 배경화면",
+	"eng" : "Gong Yoo HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.gongyoo_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/3EzLkBh85y6gBf6r8U5oxZG77uqiNNVnDHXoDlCbBIGfAAlvIdGRETl5JzxvyuCf0Qg=w480-h960-rw"
+},
+{
+	"name": "박신혜 HD 고화질 배경화면",
+	"eng" : "Park Shin Hye HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.shinhye_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/0q_Hl001QI1Q8OUnxWJkowvgnsNv0gler3dsaUw4NR2PC93SLMgpZcMpujhvG2tuEfg=w480-h960-rw"
+},
+{
 	"name": "준호(2PM) HD 고화질 배경화면",
 	"eng" : "JUNHO(2PM) HD Wallpaper",
     "category": "actor",
@@ -350,14 +414,6 @@
 	"rating": 4.2,
 	"package_name": "com.offsong.joy_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/S4-SqaBjUEdNlrbkzXJEADVYOx_5PbOMAklL5RrUJ4LYcXnFMqYa7blV594uJdOIMA=s360-rw"
-},
-{
-	"name": "몬스타엑스 셔누 배경화면",
-	"eng" : "Shownu Wallpaper",
-    "category": "Singer",
-	"rating": 5.0,
-	"package_name": "com.offsong.shownu_wallpaper",
-	"image": "https://play-lh.googleusercontent.com/Db3OZv4N_pyAQnw95WjHv57o9M0ixWwBjpNl277Ew94QxX62X65C1_Fu3WkXYladh98=s360-rw"
 },
 {
 	"name": "보라해 - 뷔 명언 배경화면",
@@ -1030,14 +1086,6 @@
 	"rating": 5.0,
 	"package_name": "com.offsong.jungseok_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/w_YgUa5Pr4H1sW9wDNZtFuoHERV79DF6A6xdcCcrqqEbZd83di4zPnKS2RldUDxNRiY=s360-rw"
-},
-{
-	"name": "주지훈 배경화면",
-	"eng" : "KINGDOM JU JI-HOON Wallpaper",
-    "category": "actor",
-	"rating": 5.0,
-	"package_name": "com.offsong.jujihoon_wallpaper",
-	"image": "https://play-lh.googleusercontent.com/rSPlEWKRIs7W4JfQ6DFxHJCFw5UKk_UgCGoJHpfeObk-C3mTgNm3souny8rmJv-wboY=s360-rw"
 },
 {
 	"name": "김선호 배경화면",
