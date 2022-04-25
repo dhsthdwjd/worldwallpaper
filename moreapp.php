@@ -168,6 +168,14 @@
 	"image": "https://play-lh.googleusercontent.com/QwO-32gGej4rB2SuV1_QgztKbACNQ0ZiFFuOxeu1rWEMgRoItAD6WeNXeo_9X2p__fs=w480-h960-rw"
 },
 {
+	"name": "안효섭 HD 고화질 배경화면",
+	"eng" : "Ahn Hyoseop HD Wallpaper",
+    "category": "actor",
+	"rating": 5.0,
+	"package_name": "com.offsong.hyoseop_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/eCX3UdadgrE3XxbOvUWtCeu_bWrnp70Bp4Fvd0RXNlx-TzTUZVH6JVCqP1wInXPlwQ=w480-h960-rw"
+},
+{
 	"name": "박보검 HD 고화질 배경화면",
 	"eng" : "Park Bo-gum HD Wallpaper",
     "category": "actor",
