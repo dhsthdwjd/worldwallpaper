@@ -1,5 +1,13 @@
 [
 {
+	"name": "플러스마이너스 - 멀티 카운터",
+	"eng" : "PlusMinus Multi Count",
+    "category": "Best",
+	"rating": 5.0,
+	"package_name": "com.offsong.plusminus",
+	"image": "https://play-lh.googleusercontent.com/tbjjhh-tK0gJFA_NCJOkZq9xPfLUkkwBQ8_OSuMniwSejQPdD6Co2rWGI_A-oZnbq_4=w480-h960-rw"
+},
+{
 	"name": "뉴모피즘 스도쿠-스도쿠 퍼즐, 두뇌 게임, 숫자 게임",
 	"eng" : "Neumorphism SUDOKU PUZZLE",
     "category": "Best",
@@ -18,7 +26,7 @@
 {
 	"name": "카드캡터 체리 HD 고화질 배경화면",
 	"eng" : "Cardcaptor Sakura HD Wallpaper",
-    "category": "Best",
+    "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.cardcaptor_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/NnE1w6qzulGUhynv3IBRgFQR_WKpF1pnoY2anyrUHSuxCTpU5bXdIgysfkyw_GeJtHE=w480-h960-rw"
