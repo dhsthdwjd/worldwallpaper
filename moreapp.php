@@ -1,5 +1,21 @@
 [
 {
+	"name": "어비스 HD 고화질 감성 배경화면",
+	"eng" : "Abyss - HD Aesthetic Wallpaper",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.abyss_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/BkOnHMyvT8QibxO7Hiy8otN1FIVq3w7CCuol7b9ZhtswocJQyHMI4de2s3euKhF1Zg=w480-h960-rw"
+},
+{
+	"name": "클레이 모레츠 HD 고화질 배경화면",
+	"eng" : "Chloe Moretz HD Wallpaper",
+    "category": "World Star",
+	"rating": 5.0,
+	"package_name": "com.offsong.moretz_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/dSpbp8YaMUa5y2c9r9txzyc91xmRX0-97fSOnrXSCJ4cVwZJtKr8zB_57vWxJsfjNg=w480-h960-rw"
+},
+{
 	"name": "플러스마이너스 - 멀티 카운터",
 	"eng" : "PlusMinus Multi Count",
     "category": "Best",
