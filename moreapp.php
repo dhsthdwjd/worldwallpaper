@@ -1,4 +1,13 @@
 [
+
+{
+	"name": "내 드레스 업 달링 HD 고화질 배경화면",
+	"eng" : "My Dress Up Darling Wallpaper",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.dressup_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/2rs2UQEBRFZepZfRmsFs-gid6M2FqriM2rbzfNhe-iPgsDnSNF6r_3a2h2n1p9Ttoio=w480-h960-rw"
+},
 {
 	"name": "어비스 HD 고화질 감성 배경화면",
 	"eng" : "Abyss - HD Aesthetic Wallpaper",
