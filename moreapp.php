@@ -8,6 +8,14 @@
 	"image": "https://play-lh.googleusercontent.com/yAv33-uOYS4scMz1-m-3zR0QPGh17TPmN1SjUlX8XaEQAAv2MgdEfqhj8XOUnDqMnEo=w480-h960-rw"
 },
 {
+	"name": "스튜디오 지브리 HD 고화질 배경화면",
+	"eng" : "Studio Ghibli HD Wallpaper",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.ghibli_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/oopK7uAHwFIPFW9MgaS49d6vi96Auzt4W3jwtwKeNcYR1fhmXoRypBXOp8VVL6aESkY=w480-h960-rw"
+},
+{
 	"name": "내 드레스 업 달링 HD 고화질 배경화면",
 	"eng" : "My Dress Up Darling Wallpaper",
     "category": "etc",
