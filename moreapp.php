@@ -1,9 +1,17 @@
 [
 {
+	"name": "마소감 습관 - 나를 변화시키는 30일 챌린지",
+	"eng" : "Miracle Habit-30Day Challenge",
+    "category": "Best",
+	"rating": 5.0,
+	"package_name": "com.offsong.miraclehabit",
+	"image": "https://play-lh.googleusercontent.com/HDRfbIm5MclCQoN3o9ZYafCjC7DIzNLVCfVQjRamtyM3XxrLnGoWYp0cZL57sjiFThU=w480-h960-rw"
+},
+{
 	"name": "마음정원 - 나에게 전하는 100문 100답",
 	"eng" : "Mind Garden",
     "category": "Best",
-	"rating": 4.5,
+	"rating": 5.0,
 	"package_name": "com.offsong.randomlunch",
 	"image": "https://play-lh.googleusercontent.com/HibXYOwXMB_EvFWd8si-Rsoi0JwRldeE5XxqZRyTZq7o9cE7cjgeeg6G889IO3IY_7pV=w480-h960-rw"
 },
