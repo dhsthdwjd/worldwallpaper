@@ -1,6 +1,6 @@
 [
 {
-	"name": "마소감 습관 - 나를 변화시키는 30일 챌린지",
+	"name": "소감 습관 - 나를 변화시키는 30일 챌린지",
 	"eng" : "Miracle Habit-30Day Challenge",
     "category": "Best",
 	"rating": 5.0,
