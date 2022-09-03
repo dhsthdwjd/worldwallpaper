@@ -5,7 +5,7 @@
     "category": "Best",
 	"rating": 5.0,
 	"package_name": "com.offsong.miraclehabit",
-	"image": "https://play-lh.googleusercontent.com/HDRfbIm5MclCQoN3o9ZYafCjC7DIzNLVCfVQjRamtyM3XxrLnGoWYp0cZL57sjiFThU=w480-h960-rw"
+	"image": "https://play-lh.googleusercontent.com/2T-AYwYxT8CPQFn4oY7CB15C3XOn760lmL4bFNOlJhRD4yfwRM7t0EHlCYMrAFzwf-4=w480-h960-rw"
 },
 {
 	"name": "마음정원 - 나에게 전하는 100문 100답",
