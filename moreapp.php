@@ -91,6 +91,14 @@
 	"image": "https://play-lh.googleusercontent.com/NnE1w6qzulGUhynv3IBRgFQR_WKpF1pnoY2anyrUHSuxCTpU5bXdIgysfkyw_GeJtHE=w480-h960-rw"
 },
 {
+	"name": "뉴진스(NewJeans) HD 고화질 배경화면",
+	"eng" : "NewJeans Kpop HD Wallpaper",
+    "category": "Singer",
+	"rating": 5.0,
+	"package_name": "com.offsong.blinkquote",
+	"image": "https://play-lh.googleusercontent.com/sNf7MtuR5M8Eu_EDvtfiTqHIzaZdfS7BuNHi_A1RFoaCClXLlr513dgJNe-sj90MIJA=w480-h960-rw"
+},
+{
 	"name": "워너원(Wanna One) HD 고화질 배경화면",
 	"eng" : "Wanna One Kpop HD Wallpaper",
     "category": "Singer",
