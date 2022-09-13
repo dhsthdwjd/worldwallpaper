@@ -1,5 +1,37 @@
 [
 {
+	"name": "슬픈 애니메이션 HD 고화질 배경화면",
+	"eng" : "Sad Anime HD Wallpaper",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.exo_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/vYl862wy1oJYc6_0BT9Y1UMzqUsa124W5jDelSrExpQC1vq25dRChwQDDMsC2TltvbI=w480-h960-rw"
+},
+{
+	"name": "주술회전 HD 고화질 배경화면",
+	"eng" : "Jujutsu Kaisen HD Wallpaper",
+    "category": "Best",
+	"rating": 5.0,
+	"package_name": "com.offsong.exoquote",
+	"image": "https://play-lh.googleusercontent.com/sXFatzq0j7IABGeEb7ZbiqwhQpzvVrPMsycd4HdHqZjeI3wjbeDiwycIT97nd880a5M=w480-h960-rw"
+},
+{
+	"name": "도쿄 리벤저스 HD 고화질 배경화면",
+	"eng" : "Tokyo Revengers HD Wallpaper",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.daniel_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/wpuN3q_3kBmyoK7ghGqp6oGlOJOKuhvU4bsY2cj4QMALK1RgrZlC38QTFfBG6XwXIEo=w480-h960-rw"
+},
+{
+	"name": "하이큐 HD 고화질 배경화면 & 잠금화면",
+	"eng" : "Haikyuu Anime HD Wallpaper",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.haikyuu_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/rzv9v5bUAvgEUSlNAlhQ4QX3HwHhZM4LUbOf1aMdPiawltRc9RFDGCmv_IJ1afZTXe4=w480-h960-rw"
+},
+{
 	"name": "소감 습관 - 나를 변화시키는 30일 챌린지",
 	"eng" : "Miracle Habit-30Day Challenge",
     "category": "Best",
