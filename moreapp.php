@@ -72,7 +72,7 @@
 	"image": "https://play-lh.googleusercontent.com/aBcO0X7MAxMkJI2PysQ_QVCtIlRPUDzp7O9h-BQRkXxRPJ6QYl6J5KrGdrD7j9wLFsT2=w480-h960-rw"
 },
 {
-	"eng": "투피엠(2PM) HD 배경화면",
+	"eng": "투피엠 배경화면",
 	"name" : "2PM Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -80,15 +80,15 @@
 	"image": "https://play-lh.googleusercontent.com/8EGPyZVBOo3wIwcS6IPYC9BLr7DhDIhSVo4tGe5tmSrKfruqAaCNC6TvsZos6eNJowvm=w480-h960-rw"
 },
 {
-	"eng": "준호(2PM) HD 배경화면",
-	"name" : "JUNHO(2PM) Wallpaper",
+	"eng": "투피엠 준호 배경화면",
+	"name" : "2PM JUNHO Wallpaper",
     "category": "Singer",
 	"rating": 4.1,
 	"package_name": "com.offsong.junho_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/2pwmB-gIWLnsApu2DCZQ6aZXEQ8vLca4UnYkTpImfaEzp3CuDmQaaLRjokQYBW51WA=w480-h960-rw"
 },
 {
-	"eng": "에스파 HD 배경화면",
+	"eng": "에스파 배경화면",
 	"name" : "AESPA Wallpaper",
     "category": "Singer",
 	"rating": 4.8,
@@ -105,7 +105,7 @@
 },
 
 {
-	"eng": "에스파 카리나 HD 배경화면",
+	"eng": "에스파 카리나 배경화면",
 	"name" : "AESPA KARINA Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -113,7 +113,7 @@
 	"image": "https://play-lh.googleusercontent.com/ZCfePgM0h66bCcgGvR_2gkSGfKot8Rp99ypXat4NS-Wqti7-4yv47erhap-tpHMiubo=w480-h960-rw"
 },
 {
-	"eng": "에스파 윈터 HD 배경화면",
+	"eng": "에스파 윈터 배경화면",
 	"name" : "AESPA WINTER Wallpaper",
     "category": "Singer",
 	"rating": 4.7,
@@ -121,7 +121,7 @@
 	"image": "https://play-lh.googleusercontent.com/KVlVptwpJp7BzxaLbUwvyrkKk23oNrbRntJkY8FKo0JOm6feZ6EYc8QX1ikntIZbbfE=w480-h960-rw"
 },
 {
-	"eng": "음식사진(인스타감성) HD 배경화면",
+	"eng": "음식사진(인스타감성) 배경화면",
 	"name" : "Aesthetic Food Wallpaper",
     "category": "etc",
 	"rating": 5.0,
@@ -129,7 +129,7 @@
 	"image": "https://play-lh.googleusercontent.com/-kuEVV6_9rjwkJD5irbeYGSDr9Qlasz1TcbJC-TAK0wyhDXtaj1I_QGhnlyy8SHuE38=w480-h960-rw"
 },
 {
-	"eng": "감성 하늘 HD 배경화면",
+	"eng": "감성 하늘 배경화면",
 	"name" : "Aesthetic Sky Wallpaper",
     "category": "etc",
 	"rating": 5.0,
@@ -137,7 +137,7 @@
 	"image": "https://play-lh.googleusercontent.com/9bE5E9ZzvfBp9CXTyv7FBy9BFdZhRgOpM4JzgHOthK7NQAhuDQuRn7w1N5ntmy5Xbg=w480-h960-rw"
 },
 {
-	"eng": "배우 안효섭 HD 배경화면",
+	"eng": "배우 안효섭 배경화면",
 	"name" : "Ahn Hyoseop Wallpaper",
     "category": "actor",
 	"rating": 5.0,
@@ -145,7 +145,7 @@
 	"image": "https://play-lh.googleusercontent.com/eCX3UdadgrE3XxbOvUWtCeu_bWrnp70Bp4Fvd0RXNlx-TzTUZVH6JVCqP1wInXPlwQ=w480-h960-rw"
 },
 {
-	"eng": "앤드류 가필드 HD 배경화면",
+	"eng": "앤드류 가필드 배경화면",
 	"name" : "Andrew Garfield Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -153,7 +153,7 @@
 	"image": "https://play-lh.googleusercontent.com/6tOmst5V38tXn4-Tx917nt1bbXpo2z5JQr2Li4B682rBLxlinzyDqDL01xcmYDgRWlQ=w480-h960-rw"
 },
 {
-	"eng": "애니메이션(3000여장) HD 배경화면",
+	"eng": "애니메이션(3000여장) 배경화면",
 	"name" : "Animation(3000+) Wallpaper",
     "category": "Best",
 	"rating": 3.9,
@@ -161,7 +161,7 @@
 	"image": "https://play-lh.googleusercontent.com/laIh5wG0_7D0HTvFCrRrGnK1-2NzICLVVuIwbnRlvB9JrYcjEFhDfp8-zzCrmZ3Qvtc=w480-h960-rw"
 },
 {
-	"eng": "아리아나 그란데 HD 배경화면",
+	"eng": "아리아나 그란데 배경화면",
 	"name" : "Ariana Grande Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -169,7 +169,7 @@
 	"image": "https://play-lh.googleusercontent.com/Iq2eRiLenzqF6Km1Vyjcf0JBfSRdZTT6LJLL26SijSlxbRrN1amAshlGCOaJgOEXKA=w480-h960-rw"
 },
 {
-	"eng": "애쉬 아일랜드 HD 배경화면",
+	"eng": "애쉬 아일랜드 배경화면",
 	"name" : "ASH ISLAND Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -177,7 +177,7 @@
 	"image": "https://play-lh.googleusercontent.com/Qgcil3ZX7YDROhIdNCu7lkC0aZC1i-XSEJe0_rVeclYp51JywzgVObNwDCr08PCZdH6e=w480-h960-rw"
 },
 {
-	"eng": "아스트로 HD 배경화면",
+	"eng": "아스트로 배경화면",
 	"name" : "ASTRO Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -226,7 +226,7 @@
 	"image": "https://play-lh.googleusercontent.com/iTU_PTv5qSk_WWyXkZuPVa6COodE6HSJq9zUjo_t6e3AVtngR2RffIqzjUwQGeeXKfE=w480-h960-rw"
 },
 {
-	"eng": "진격의 거인 HD 배경화면",
+	"eng": "진격의 거인 배경화면",
 	"name" : "Attack on Titan Wallpaper",
     "category": "Best",
 	"rating": 3.9,
@@ -234,7 +234,7 @@
 	"image": "https://play-lh.googleusercontent.com/eO-ee2OHTJwte3sRAs4VtpXtlgBKziCxtmRdfXnv6g9OTaK6jEKmZs3zWT686gF3vg=w480-h960-rw"
 },
 {
-	"eng": "비욘세 HD 배경화면",
+	"eng": "비욘세 배경화면",
 	"name" : "Beyonce Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -242,7 +242,7 @@
 	"image": "https://play-lh.googleusercontent.com/xEiKcR4y7llDWUci-qfxN5FRIP4FACZ5pvHX1WyR9dQGUgygOczp9_OrrI7xPSDaVlHy=w480-h960-rw"
 },
 {
-	"eng": "빅뱅 지드래곤 HD 배경화면",
+	"eng": "빅뱅 지드래곤 배경화면",
 	"name" : "Bigbang G-Dragon Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -250,7 +250,7 @@
 	"image": "https://play-lh.googleusercontent.com/n_9UW9gr41WotyAiQh0KZK8VuuuZtrY_pZeG4iftiO5kbhnU9v7qF98EdksfSa88NzA=w480-h960-rw"
 },
 {
-	"eng": "빌리 아일리시 HD 배경화면",
+	"eng": "빌리 아일리시 배경화면",
 	"name" : "Billie Eilish Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -267,7 +267,7 @@
 },
 
 {
-	"eng": "블랙핑크 제니 HD 배경화면",
+	"eng": "블랙핑크 제니 배경화면",
 	"name" : "BLACKPINK JENNIE Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -275,7 +275,7 @@
 	"image": "https://play-lh.googleusercontent.com/YCDtcA8u0dyrzR7eRS5Wu_Cq3OYfWiIHieiEpNgn3Ubw3BkZhfz73sS9x6nNPPJF0r0=w480-h960-rw"
 },
 {
-	"eng": "블랙핑크 지수 HD 배경화면",
+	"eng": "블랙핑크 지수 배경화면",
 	"name" : "BLACKPINK JISOO Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -283,7 +283,7 @@
 	"image": "https://play-lh.googleusercontent.com/2HmC5w8QHlFC7O6P5hcvR5BGZogPn6n3ZAT1v1GLv1C5_AziUIdFpreuf8Phw2uD83Q=w480-h960-rw"
 },
 {
-	"eng": "블랙핑크 리사 HD 배경화면",
+	"eng": "블랙핑크 리사 배경화면",
 	"name" : "BLACKPINK LISA Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -291,15 +291,15 @@
 	"image": "https://play-lh.googleusercontent.com/XLXDptfyNl522C9R-Js7vMpQZYF_c26cxj7L-QEXv8mf2FUyUMYTP4sejl18HtlwY72i=w480-h960-rw"
 },
 {
-	"eng": "블랙핑크 로제 HD 배경화면",
-	"name" : "BLACKPINK ROSÉ  Wallpaper",
+	"eng": "블랙핑크 로제 배경화면",
+	"name" : "BLACKPINK ROSÉ Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.rose_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/ajRp5l9mowX-mUI2sIiMhs2-0lOS_TrXycYyXy9q0tSNAK5YX5_xcIPwbE-89Jnd-pY=w480-h960-rw"
 },
 {
-	"eng": "브레이브걸스 HD 배경화면",
+	"eng": "브레이브걸스 배경화면",
 	"name" : "Brave Girls Wallpaper",
     "category": "Singer",
 	"rating": 4.8,
@@ -324,7 +324,7 @@
 },
 
 {
-	"eng": "카드캡터 체리 HD 배경화면",
+	"eng": "카드캡터 체리 배경화면",
 	"name" : "Cardcaptor Sakura Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -332,7 +332,7 @@
 	"image": "https://play-lh.googleusercontent.com/NnE1w6qzulGUhynv3IBRgFQR_WKpF1pnoY2anyrUHSuxCTpU5bXdIgysfkyw_GeJtHE=w480-h960-rw"
 },
 {
-	"eng": "클레이 모레츠 HD 배경화면",
+	"eng": "클레이 모레츠 배경화면",
 	"name" : "Chloe Moretz Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -340,7 +340,7 @@
 	"image": "https://play-lh.googleusercontent.com/dSpbp8YaMUa5y2c9r9txzyc91xmRX0-97fSOnrXSCJ4cVwZJtKr8zB_57vWxJsfjNg=w480-h960-rw"
 },
 {
-	"eng": "조이현 HD 배경화면",
+	"eng": "조이현 배경화면",
 	"name" : "Cho Yihyun Wallpaper",
     "category": "actor",
 	"rating": 4.8,
@@ -372,7 +372,7 @@
 	"image": "https://play-lh.googleusercontent.com/zARdkFff7ArVSFwhWx09rInPigbD_7IhXYvYI18bdSTFOEiEuexbDNKeD46UEYxVHvYi=w480-h960-rw"
 },
 {
-	"eng": "우주소녀 HD 배경화면",
+	"eng": "우주소녀 배경화면",
 	"name" : "Cosmic Girls(WJSN) Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -380,7 +380,7 @@
 	"image": "https://play-lh.googleusercontent.com/8o8mILKpfNBtOTz58_ps6G0JxoFu216aii75nGwLWduDZwIoNHL-_I6sfPQfaIgf6As=w480-h960-rw"
 },
 {
-	"eng": "크래비티 HD 배경화면",
+	"eng": "크래비티 배경화면",
 	"name" : "CRAVITY Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -396,14 +396,6 @@
 	"image": "https://play-lh.googleusercontent.com/wWvUJeESFCtooQVIMTWbYdVCuY8Uy57qSXf_oH9G-yiYXOLYuKLk-9d_fuq6GRb9V2g=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 기유 HD 배경화면",
-	"name" : "Demon Slayer GIYU Wallpaper",
-    "category": "Best",
-	"rating": 5.0,
-	"package_name": "com.offsong.giyu_wallpaper",
-	"image": "https://play-lh.googleusercontent.com/V5vrxwKUsMWHIa45JAkUukciIIDML_6vIeLS0510hLHXRb1_eIcc5S8piJ-YtE9Bg0E=w480-h960-rw"
-},
-{
 	"eng": "Gifs 귀멸의 칼날 움짤 이미지 모음",
 	"name" : "Gifs Demon Slayer Collection",
     "category": "Singer",
@@ -411,9 +403,16 @@
 	"package_name": "com.offsong.Eunoia_wisdom",
 	"image": "https://play-lh.googleusercontent.com/KS4sbrZggaIFtWimDXiNscI6MCD81KMGB6wZSWkJRdi6pfWmgihezDmjwF_E2C-Ma6Q=w480-h960-rw"
 },
-
 {
-	"eng": "귀멸의칼날 이노스케 HD 배경화면",
+	"eng": "귀멸의칼날 기유 배경화면",
+	"name" : "Demon Slayer GIYU Wallpaper",
+    "category": "Best",
+	"rating": 5.0,
+	"package_name": "com.offsong.giyu_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/V5vrxwKUsMWHIa45JAkUukciIIDML_6vIeLS0510hLHXRb1_eIcc5S8piJ-YtE9Bg0E=w480-h960-rw"
+},
+{
+	"eng": "귀멸의칼날 이노스케 배경화면",
 	"name" : "Demon Slayer INOSUKE Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -421,7 +420,7 @@
 	"image": "https://play-lh.googleusercontent.com/a2dW5LZCaVlZVmbSyfRmMFYnb2-duxCbfIo2T5FfKvawItt-1AJbqw6QBPTqg43lmpQ=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 쿄쥬로 HD 배경화면",
+	"eng": "귀멸의칼날 쿄쥬로 배경화면",
 	"name" : "Demon Slayer KYOJURO Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -429,7 +428,7 @@
 	"image": "https://play-lh.googleusercontent.com/YbszixsnMHhDUr6G3vDtOA4xW4MWUAixh0afRlnQ_WNiHIdPm_fyBeZnsON9nGxpYS4=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 미츠리 HD 배경화면",
+	"eng": "귀멸의칼날 미츠리 배경화면",
 	"name" : "Demon Slayer MITSURI Wallpaper",
     "category": "Best",
 	"rating": 4.6,
@@ -437,7 +436,7 @@
 	"image": "https://play-lh.googleusercontent.com/rXtgWM2dXeqgaDf3QL7Khefy4n_uFOir4W2LGrafzteJikw20UYlP4tl-zgasGgdxZA=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 무이치로 HD 배경화면",
+	"eng": "귀멸의칼날 무이치로 배경화면",
 	"name" : "Demon Slayer MUICHIRO Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -445,7 +444,7 @@
 	"image": "https://play-lh.googleusercontent.com/znCJExfRWtjEfI3wf_uSpHdbivsOECCIj2W_i4a0y4Fi6pC5dnKGcMs8uGGz4S264U7V=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 네즈코 HD 배경화면",
+	"eng": "귀멸의칼날 네즈코 배경화면",
 	"name" : "Demon Slayer NEZUKO Wallpaper",
     "category": "Best",
 	"rating": 4.3,
@@ -453,7 +452,7 @@
 	"image": "https://play-lh.googleusercontent.com/jgC-Tb8bF6Bvz5tD2PB3-Pw5XiwPT3AffjPh7CNEq-xEmAx6Wd3f_z9OcOx-StgrTbMI=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 오바나이 HD 배경화면",
+	"eng": "귀멸의칼날 오바나이 배경화면",
 	"name" : "Demon Slayer OBANAI Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -461,7 +460,7 @@
 	"image": "https://play-lh.googleusercontent.com/F6_8mhdUd1T275ft8V4akxJ79SANnMCVSs8by5Y86hROC1oZKLcEnrs4xqPbSJ43l3Ex=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 사네미 HD 배경화면",
+	"eng": "귀멸의칼날 사네미 배경화면",
 	"name" : "Demon Slayer SANEMI Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -469,7 +468,7 @@
 	"image": "https://play-lh.googleusercontent.com/wIgtANVg140YJXOqDswOiYOwDfaG3F17KoCbB1OVy74qArpmLOUupcH4PvBsV0lU7A=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 시노부 HD 배경화면",
+	"eng": "귀멸의칼날 시노부 배경화면",
 	"name" : "Demon Slayer SHINOBU Wallpaper",
     "category": "Best",
 	"rating": 4.7,
@@ -477,7 +476,7 @@
 	"image": "https://play-lh.googleusercontent.com/_NpU9vLJ6C8PKMsnMPs9cW1S332CgOeeKFDgcTm0uPKCSNB4ns-hkd9eGtRt2MuuZ6A=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 탄지로 HD 배경화면",
+	"eng": "귀멸의칼날 탄지로 배경화면",
 	"name" : "Demon Slayer TANJIRO Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -485,7 +484,7 @@
 	"image": "https://play-lh.googleusercontent.com/BT960dIQ5DK2iVbvl_9I9Zynnz6mdRfU7PLFgG1ROzwP98MRxov2sLwUuzWlRqp0lkI=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 텐겐 HD 배경화면",
+	"eng": "귀멸의칼날 텐겐 배경화면",
 	"name" : "Demon Slayer TENGEN Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -493,7 +492,7 @@
 	"image": "https://play-lh.googleusercontent.com/LiS1lA_-uoJnisyzMbcVadxqAgbg-usOYtRYRb4kByCItUtJ107LMVbpOn56K6G5Ank=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 츠유리 HD 배경화면",
+	"eng": "귀멸의칼날 츠유리 배경화면",
 	"name" : "Demon Slayer TSUYURI Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -501,7 +500,7 @@
 	"image": "https://play-lh.googleusercontent.com/NwOoBpDf4o6PXO_pPI6g2LfqjB5nYPtHp-4X_hPqY83fbMhopaEbWVEQG1n9y3Qf3Gg=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 젠이츠 HD 배경화면",
+	"eng": "귀멸의칼날 젠이츠 배경화면",
 	"name" : "Demon Slayer ZENITSU Wallpaper",
     "category": "Best",
 	"rating": 4.2,
@@ -509,7 +508,7 @@
 	"image": "https://play-lh.googleusercontent.com/boRyJhVdaKMv5vwUmVARDgE2tlboYnaPuIQJZUqzRUKXk3OvbPb88GP2RjR26azz0w=w480-h960-rw"
 },
 {
-	"eng": "귀멸의칼날 십이귀월 HD 배경화면",
+	"eng": "귀멸의칼날 십이귀월 배경화면",
 	"name" : "Demon Slayer TWELVE KIZUKI Wallpaper",
     "category": "Best",
 	"rating": 4.2,
@@ -517,7 +516,7 @@
 	"image": "https://play-lh.googleusercontent.com/Cn9tYNcsQ-NZBJI40FvRMeLiJk9O6YBGRLvZEWyEqarE5KFTMJNWrhsJIPRit1baJA=w480-h960-rw"
 },
 {
-	"eng": "용(드래곤) HD 배경화면",
+	"eng": "용(드래곤) 배경화면",
 	"name" : "munchen_wallpaper Wallpaper",
     "category": "etc",
 	"rating": 5.0,
@@ -525,7 +524,7 @@
 	"image": "https://play-lh.googleusercontent.com/HbNouG9QqKE0SNZto3Q2kiMXaL7slghXkBbrGdz9GHBfj6AET11E5ps7yD3yki-6UQvp=w480-h960-rw"
 },
 {
-	"eng": "드레이크 HD 배경화면",
+	"eng": "드레이크 배경화면",
 	"name" : "Drake Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -533,7 +532,7 @@
 	"image": "https://play-lh.googleusercontent.com/MtlfrZj6Amx2zynlJ0x9nWHmkbfYWI7xxtlqIHOiGHLmgd8e78KFd4PTz-7uxYZY-ygQ=w480-h960-rw"
 },
 {
-	"eng": "드림캐쳐 HD 배경화면",
+	"eng": "드림캐쳐 배경화면",
 	"name" : "Dreamcatcher Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -541,7 +540,7 @@
 	"image": "https://play-lh.googleusercontent.com/xJh7_rwDak3e4pfB7aadY49ZTj0yba5-kegYESbGxF1Hntcxl-iLmd8MWX3I7hic7Q=w480-h960-rw"
 },
 {
-	"eng": "두아리파 HD 배경화면",
+	"eng": "두아리파 배경화면",
 	"name" : "Dua Lipa Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -549,7 +548,7 @@
 	"image": "https://play-lh.googleusercontent.com/NfXHyg_MnCRTzLbxZnjJwY14wyHz7EP9E7lKLkZE3M5D1YWtcCNKgvodVM8_5h0f2Q=w480-h960-rw"
 },
 {
-	"eng": "드웨인 존슨 HD 배경화면",
+	"eng": "드웨인 존슨 배경화면",
 	"name" : "Dwayne Johnson Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -557,7 +556,7 @@
 	"image": "https://play-lh.googleusercontent.com/FgPzTTl94CBqgT16w4VYQf9xyGewK1Nvzt4LktqWDLOmpQzHzsu3mlSsYJPqIxuDEOg=w480-h960-rw"
 },
 {
-	"eng": "엠마 왓슨 HD 배경화면",
+	"eng": "엠마 왓슨 배경화면",
 	"name" : "Emma Watson Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
@@ -565,7 +564,7 @@
 	"image": "https://play-lh.googleusercontent.com/o36R45J8my0OLUb3YlbC-xAkRWC3DXH5ZlY97C7QczUWcEaI1g-1M5PI9UcF4SuaTqc=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 HD 배경화면",
+	"eng": "엔하이픈 배경화면",
 	"name" : "ENHYPEN Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -582,7 +581,7 @@
 },
 
 {
-	"eng": "엔하이픈 희승 HD 배경화면",
+	"eng": "엔하이픈 희승 배경화면",
 	"name" : "ENHYPEN HEESEUNG Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -590,7 +589,7 @@
 	"image": "https://play-lh.googleusercontent.com/_riETRB6DfG-Bcaw600IQlvbL66oW-DXoppFpfGBNc6SC0Yq9jL8TW2Cqc-TyCVGOw=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 제이크 HD 배경화면",
+	"eng": "엔하이픈 제이크 배경화면",
 	"name" : "ENHYPEN JAKE Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -598,7 +597,7 @@
 	"image": "https://play-lh.googleusercontent.com/SVlEUjTdojUMbp8YdQfUFaLgzd2EIFB2jChbWx46i2ZvF9-D6_TNPz1N3DhXKhogbLJh=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 제이 HD 배경화면",
+	"eng": "엔하이픈 제이 배경화면",
 	"name" : "ENHYPEN JAY Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -606,7 +605,7 @@
 	"image": "https://play-lh.googleusercontent.com/f4jLbq9PhN3XKUjES4BfiOGAnsJDWhuJwxSLqno5p4t5FghKfsEPUcH09kpyjWWJixo=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 정원 HD 배경화면",
+	"eng": "엔하이픈 정원 배경화면",
 	"name" : "ENHYPEN JUNGWON Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -614,7 +613,7 @@
 	"image": "https://play-lh.googleusercontent.com/LdfroI3IkOByTpl57XJq3stb2kTsk9OjAGt_TuzrkxpUYzAiPE_osSczXklN9yewPH8=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 니키 HD 배경화면",
+	"eng": "엔하이픈 니키 배경화면",
 	"name" : "ENHYPEN NI-KI Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -622,7 +621,7 @@
 	"image": "https://play-lh.googleusercontent.com/9jaVfXoBZZDzQbU3wvqnzJON94hYZc_PBQMHrPiLAM_5s2K-yGtdYV2cAYAL_2fiHvI=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 성훈 HD 배경화면",
+	"eng": "엔하이픈 성훈 배경화면",
 	"name" : "ENHYPEN SUNGHOON Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -630,7 +629,7 @@
 	"image": "https://play-lh.googleusercontent.com/tDLdjRpqYb4zKCi0ItUxCBqiZ0of6jYdNqvVJe1TAJw3SW53AFs3KR1xaA3Fm2ZXSR8=w480-h960-rw"
 },
 {
-	"eng": "엔하이픈 선우 HD 배경화면",
+	"eng": "엔하이픈 선우 배경화면",
 	"name" : "ENHYPEN Sunoo Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -638,7 +637,7 @@
 	"image": "https://play-lh.googleusercontent.com/9ypZotoCay5SemguOfc_kGnAlUnhXDwLwu2uwMu7KsmweMTarB5FqTgZEYyNolRMFw0=w480-h960-rw"
 },
 {
-	"eng": "엑소 백현 HD 배경화면",
+	"eng": "엑소 백현 배경화면",
 	"name" : "EXO Baekhyun Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -646,7 +645,7 @@
 	"image": "https://play-lh.googleusercontent.com/WY2X9V2mgpW-CydUdpfslrlIn2IPJaFQ-W9sTBEsMRy9qxur6b372WwKTFb1pcpX3QM=w480-h960-rw"
 },
 {
-	"eng": "엑소 찬열 HD 배경화면",
+	"eng": "엑소 찬열 배경화면",
 	"name" : "EXO Chanyeol Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -654,7 +653,7 @@
 	"image": "https://play-lh.googleusercontent.com/kDi6CkzBKw9QKySWnAVxNq6ptIOuV2ZkeiQtggjPbax0E__dcp3cB26fmD5bt81UxNP0=w480-h960-rw"
 },
 {
-	"eng": "엑소 디오 HD 배경화면",
+	"eng": "엑소 디오 배경화면",
 	"name" : "EXO D.O. Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -662,7 +661,7 @@
 	"image": "https://play-lh.googleusercontent.com/Ju64g1NA-polXT50WGWir_B1usQwpvM34wci4IHWEVcuTMLgrsAtDsFTtMzPa2_hjw=w480-h960-rw"
 },
 {
-	"eng": "엑소 카이 HD 배경화면",
+	"eng": "엑소 카이 배경화면",
 	"name" : "EXO Kai Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -670,7 +669,7 @@
 	"image": "https://play-lh.googleusercontent.com/JDX_bpKiWS8Lam5gLWtQvOx_RXyTmCrbZ16jU9uifqLd8Y894Mt5h8534q-lZ7UMFqo=w480-h960-rw"
 },
 {
-	"eng": "전투기 HD 배경화면",
+	"eng": "전투기 배경화면",
 	"name" : "Fight Plane Wallpaper",
     "category": "etc",
 	"rating": 5.0,
@@ -678,7 +677,7 @@
 	"image": "https://play-lh.googleusercontent.com/LVUgo8ZX56paoPo6mXC_-aMIFz2lz31-_B_ndfvHmQ7Jg0OCICkWIjiLNbJIFEWcYyQ=w480-h960-rw"
 },
 {
-	"eng": "프로미스나인 HD 배경화면",
+	"eng": "프로미스나인 배경화면",
 	"name" : "FROMIS 9 Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -686,7 +685,7 @@
 	"image": "https://play-lh.googleusercontent.com/wd9EtKn6seH-UyzeRHgA0wy0nVm3JIVn45s2toa0X_R4Z7g5oqRB1rCxgKz8yp6EGA=w480-h960-rw"
 },
 {
-	"eng": "(여자)아이들 HD 배경화면",
+	"eng": "(여자)아이들 배경화면",
 	"name" : "(G)I-DLE Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -694,7 +693,7 @@
 	"image": "https://play-lh.googleusercontent.com/Ao9VIe8jumbDcHKGhZ-HYNr6L0RBvCqa4JMdGOLoQtMHMlanRtKHCWEKOEELpVwR2g=w480-h960-rw"
 },
 {
-	"eng": "갓세븐 HD 배경화면",
+	"eng": "갓세븐 배경화면",
 	"name" : "GOT7 Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
@@ -702,7 +701,7 @@
 	"image": "https://play-lh.googleusercontent.com/acbJMHEgtoWfKx3WhVm20RUxfckiFKbsbtzYcEVOPhcy6h2NBVBM7bxGMvaDJPofNOw8=w480-h960-rw"
 },
 {
-	"eng": "하이큐 HD 배경화면 & 잠금화면",
+	"eng": "하이큐 배경화면 & 잠금화면",
 	"name" : "Haikyuu Anime Wallpaper",
     "category": "Best",
 	"rating": 5.0,
@@ -783,7 +782,7 @@
 },
 {
 	"eng": "아이브 가을 배경화면",
-	"name" : "IVE GAEUL HD Wallpaper",
+	"name" : "IVE GAEUL Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.memebird_wallpaper",
@@ -791,7 +790,7 @@
 },
 {
 	"eng": "아이브 이서 배경화면",
-	"name" : "IVE LEESEO HD Wallpaper",
+	"name" : "IVE LEESEO Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.jujihoon_wallpaper",
@@ -799,7 +798,7 @@
 },
 {
 	"eng": "아이브 리즈 배경화면",
-	"name" : "IVE LIZ HD Wallpaper",
+	"name" : "IVE LIZ Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.bae173paper",
@@ -807,7 +806,7 @@
 },
 {
 	"eng": "아이브 원영 배경화면",
-	"name" : "IVE WONYOUNG HD Wallpaper",
+	"name" : "IVE WONYOUNG Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.wonyoung_wallpaper",
@@ -823,7 +822,7 @@
 },
 {
 	"eng": "아이브 유진 배경화면",
-	"name" : "IVE YUJIN HD Wallpaper",
+	"name" : "IVE YUJIN Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.randombooks",
@@ -1070,16 +1069,16 @@
 	"package_name": "com.offsong.hero_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/rlS4K569ESVT6FAcDFyQaFUc0B-8EiSVoO-Ln001QH_sCErglfrz4b-P0sPjVtnrzgI=w480-h960-rw"
 },{
-	"eng": "이찬원 HD 고화질 배경화면",
-	"name" : "Lee Chan-won HD Wallpaper",
+	"eng": "이찬원 고화질 배경화면",
+	"name" : "Lee Chan-won Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.chanwon_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/O_JW9XtYWic-VP-OTNt-ZY52RrRtr51ge465X2hhNAwdHfNXkuNGkKaZkxgNYInfhA=w480-h960-rw"
 },
 {
-	"eng": "영탁 HD 고화질 배경화면",
-	"name" : "Youngtak HD Wallpaper",
+	"eng": "영탁 고화질 배경화면",
+	"name" : "Youngtak Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.youngtak_wallpaper",
@@ -1102,8 +1101,8 @@
 	"image": "https://play-lh.googleusercontent.com/TulxCwzKzBNyI7fu9ifyU9zZ82q8owy-lL1kkdKO_OZfPWJlv8B2QGt8IaR7XJCG6w=w480-h960-rw"
 },
 {
-	"eng": "NBA 레전드 HD 고화질 배경화면",
-	"name" : "NBA Legend HD Wallpaper",
+	"eng": "NBA 레전드 고화질 배경화면",
+	"name" : "NBA Legend Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.nba_wallpaper",
@@ -1127,7 +1126,7 @@
 },
 {
 	"eng": "내셔널 풋볼 리그 배경화면",
-	"name" : "NFL HD Wallpaper",
+	"name" : "NFL Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.nfl_wallpaper",
@@ -1135,23 +1134,23 @@
 },
 {
 	"eng": "내셔널 하키 리그 배경화면",
-	"name" : "NHL HD Wallpaper",
+	"name" : "NHL Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.peach_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/5HNcKGYDFK83TlLw-HjYHHaKCMqlqRTAS0PaGtmwV3sO9yrInks65-2Ius8a6e49qxTs=w480-h960-rw"
 },
 {
-	"eng": "니쥬 HD 고화질 배경화면",
-	"name" : "NiziU HD Wallpaper",
+	"eng": "니쥬 고화질 배경화면",
+	"name" : "NiziU Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.niziu_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/pqPkzvDiImJiAVZ1BKYQcMNzxjpH6rZHsNcgyYGEVSYPiPkyJnyU7WiD7FV8gxtIgDg=w480-h960-rw"
 },
 {
-	"eng": "엔믹스 HD 고화질 배경화면",
-	"name" : "NMIXX HD Wallpaper",
+	"eng": "엔믹스 고화질 배경화면",
+	"name" : "NMIXX Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.nmixx_wallpaper",
@@ -1182,8 +1181,8 @@
 	"image": "https://play-lh.googleusercontent.com/23_2DB0ulMzm_f0Ppfak8kg8hgxaobgIXelb9biLU_6wkCWRVyiackB39Ju76jCut_g=w480-h960-rw"
 },
 {
-	"eng": "원어스 HD 고화질 배경화면",
-	"name" : "ONEUS HD Wallpaper",
+	"eng": "원어스 고화질 배경화면",
+	"name" : "ONEUS Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.oneus_wallpaper",
@@ -1191,7 +1190,7 @@
 },
 {
 	"eng": "팬톤 블랙 테마 배경화면",
-	"name" : "Pantone Black HD Wallpaper",
+	"name" : "Pantone Black Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.blackwallpaper",
@@ -1199,7 +1198,7 @@
 },
 {
 	"eng": "팬톤 블루 테마 배경화면",
-	"name" : "Pantone Blue HD Wallpaper",
+	"name" : "Pantone Blue Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.bluewallpaper",
@@ -1207,7 +1206,7 @@
 },
 {
 	"eng": "팬톤 그린 테마 배경화면",
-	"name" : "Pantone Green HD Wallpaper",
+	"name" : "Pantone Green Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.greenwallpaper",
@@ -1215,7 +1214,7 @@
 },
 {
 	"eng": "팬톤 핑크 테마 배경화면",
-	"name" : "Pantone Pink HD Wallpaper",
+	"name" : "Pantone Pink Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.pinkwallpaper",
@@ -1223,7 +1222,7 @@
 },
 {
 	"eng": "팬톤 옐로우 테마 배경화면",
-	"name" : "Pantone Yellow HD Wallpaper",
+	"name" : "Pantone Yellow Wallpaper",
     "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.yellowwallpaper",
@@ -1287,7 +1286,7 @@
 },
 {
 	"eng": "슬픈 애니메이션 배경화면",
-	"name" : "Sad Anime HD Wallpaper",
+	"name" : "Sad Anime Wallpaper",
     "category": "Best",
 	"rating": 5.0,
 	"package_name": "com.offsong.exo_wallpaper",
@@ -1582,7 +1581,7 @@
 	"image": "https://play-lh.googleusercontent.com/rPijeyJ7lcm1nO7clusrstRHdBLvRmv2YtnCpAsCwU1RViTAxfaqj5oXX5ZaUp-GZIY=w480-h960-rw"
 },
 {
-	"eng": "톰 히들스턴 HD 배경화면 & 잠금화면",
+	"eng": "톰 히들스턴 배경화면 & 잠금화면",
 	"name" : "Tom Hiddleston Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
