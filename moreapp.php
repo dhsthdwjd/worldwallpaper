@@ -1246,19 +1246,11 @@
 },
 {
 	"eng": "펜타곤 배경화면",
-	"name" : "PantegonWallpaper",
+	"name" : "Pentegon Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.pantagon_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/QwO-32gGej4rB2SuV1_QgztKbACNQ0ZiFFuOxeu1rWEMgRoItAD6WeNXeo_9X2p__fs=w480-h960-rw"
-},
-{
-	"eng": "Gifs 레드벨벳 움짤 이미지 모음",
-	"name" : "Gifs Red Velvet Collection",
-    "category": "Singer",
-	"rating": 5.0,
-	"package_name": "com.offsong.Eunoia_experience",
-	"image": "https://play-lh.googleusercontent.com/KGpiz4qaPtqJ_xFdxg6j99c9-EC0CylvpEpwOkl5vbwKro9vsne_-vYUy8YkHhJgEQ=w480-h960-rw"
 },
 {
 	"eng": "레드벨벳 배경화면",
@@ -1267,6 +1259,14 @@
 	"rating": 4.6,
 	"package_name": "com.offsong.redvelvet",
 	"image": "https://play-lh.googleusercontent.com/6P3-NX7jAjwVqZ6VtC6jQ6bwvvmFFKRr7fQHZ91iTgTzXX_NtVMWvPNUvHS7_TheuSU=w480-h960-rw"
+},
+{
+	"eng": "Gifs 레드벨벳 움짤 이미지 모음",
+	"name" : "Gifs Red Velvet Collection",
+    "category": "Singer",
+	"rating": 5.0,
+	"package_name": "com.offsong.Eunoia_experience",
+	"image": "https://play-lh.googleusercontent.com/KGpiz4qaPtqJ_xFdxg6j99c9-EC0CylvpEpwOkl5vbwKro9vsne_-vYUy8YkHhJgEQ=w480-h960-rw"
 },
 {
 	"eng": "레드벨벳 아이린 배경화면",
@@ -1470,7 +1470,7 @@
 },
 {
 	"eng": "스트레이키즈 배경화면",
-	"name" : "Strray Kids Wallpaper",
+	"name" : "Stray Kids Wallpaper",
     "category": "Singer",
 	"rating": 4.7,
 	"package_name": "com.offsong.skz_wallpaper",
@@ -1478,7 +1478,7 @@
 },
 {
 	"eng": "스트레이키즈 현진 배경화면",
-	"name" : "Strray Kids HYUNJIN Wallpaper",
+	"name" : "Stray Kids HYUNJIN Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.parkgoon_wallpaper",
@@ -1494,7 +1494,7 @@
 },
 {
 	"eng": "선미 배경화면 & 잠금화면",
-	"name" : "SUNMI Kpop Artist Wallpaper",
+	"name" : "SUNMI Wallpaper",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.sunmi_wallpaper",
@@ -1742,7 +1742,7 @@
 },
 {
 	"eng": "젠데이아 배경화면",
-	"name" : "ZendayaWallpaper",
+	"name" : "Zendaya Wallpaper",
     "category": "World Star",
 	"rating": 5.0,
 	"package_name": "com.offsong.zendaya_wallpaper",
