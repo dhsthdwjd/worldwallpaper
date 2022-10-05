@@ -1295,7 +1295,7 @@
 },
 {
 	"eng": "세일러문 배경화면",
-	"name" : "Sailor Moon WALLPAPER",
+	"name" : "Sailor Moon Wallpaper",
     "category": "Best",
 	"rating": 4.3,
 	"package_name": "com.offsong.sailor_wallpaper",
@@ -1359,7 +1359,7 @@
 },
 {
 	"eng": "에스에프나인(SF9) 배경화면",
-	"name" : "SF9Wallpaper & Lockscreen",
+	"name" : "SF9 Wallpaper & Lockscreen",
     "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.sf9_wallpaper",
