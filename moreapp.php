@@ -309,7 +309,7 @@
 {
 	"eng": "보라해 - 방탄소년단 명언 배경화면",
 	"name" : "BTS QUOTE - I PURPLE U Wallpaper",
-    "category": "Best",
+    "category": "Singer",
 	"rating": 4.5,
 	"package_name": "com.offsong.btsquotes",
 	"image": "https://play-lh.googleusercontent.com/Ue3hsKPmuSikIBGA4bXUDF3Oa4au59UoS235hRtNXhRTbg7T0OtbbAf2X9ph6BTuAxM=w480-h960-rw"
@@ -1367,16 +1367,16 @@
 },
 {
 	"eng": "심플 명언 배경화면",
-	"name" : "SHINee Wallpaper",
-    "category": "Singer",
+	"name" : "Simple Quote Wallpaper",
+    "category": "etc",
 	"rating": 5.0,
 	"package_name": "com.offsong.barcelona_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/EQygV4nozKxx_8Y6gHrYqgFaYUfq6G150dcvkyhlSXXM0t8hiNEkuHT3EROizr1D-ABr=w480-h960-rw"
 },
 {
 	"eng": "샤이니 배경화면",
-	"name" : "Simple Quote Wallpaper",
-    "category": "etc",
+	"name" : "SHINee Wallpaper",
+    "category": "Singer",
 	"rating": 5.0,
 	"package_name": "com.offsong.shinee_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/hVo4SdwJ-IPuUVAB5DoKxlfzByZnlYrOQn_GDxY8UvFw_NFRZS-5KaKpJZpgSFrxCbis=w480-h960-rw"
