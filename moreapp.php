@@ -1,5 +1,13 @@
 [
 {
+	"eng": "소음측정기",
+	"name" : "Sound Meter (decibel meter)",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.Hezkiah",
+	"image": "https://play-lh.googleusercontent.com/9GH0h7aF6YuwXRUY6U20A75ExBCq1jRkIsA9CpHkB1lxNiUrByWPYpBz7aVPz7JViYY=w480-h960-rw"
+},
+{
 	"eng": "럽콘 - 쿠폰메이커",
 	"name" : "Luvcon",
     "category": "etc",
