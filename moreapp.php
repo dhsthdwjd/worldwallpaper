@@ -322,22 +322,6 @@
 	"package_name": "com.offsong.bgirl_wallpaper",
 	"image": "https://play-lh.googleusercontent.com/RcC5hDfLhI0fbrZcOaBpSMUDXXSZ5t1oU04zE672fyVYH75RuCxC5d_Ar7WbTLs0SBk=w480-h960-rw"
 },
-{
-	"eng": "보라해 - 방탄소년단 명언 배경화면",
-	"name" : "BTS QUOTE - I PURPLE U Wallpaper",
-    "category": "Singer",
-	"rating": 4.5,
-	"package_name": "com.offsong.btsquotes",
-	"image": "https://play-lh.googleusercontent.com/Ue3hsKPmuSikIBGA4bXUDF3Oa4au59UoS235hRtNXhRTbg7T0OtbbAf2X9ph6BTuAxM=w480-h960-rw"
-},
-{
-	"eng": "Gifs 방탄소년단 움짤 이미지 모음",
-	"name" : "Gifs BTS Collection",
-    "category": "Singer",
-	"rating": 5.0,
-	"package_name": "com.offsong.gifs_bts",
-	"image": "https://play-lh.googleusercontent.com/YnH-GEgS24gGnJVs-cY7bkJimmjhyuBY2G2qb8OzURrIepUoXKwM92jUld9eNEb7LzEd=w480-h960-rw"
-},
 
 {
 	"eng": "카드캡터 체리 배경화면",
