@@ -1,5 +1,13 @@
 [
 {
+	"eng": "모두 - 모두의 다이어리",
+	"name" : "MODU (ALL-IN-ONE Diary)",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.todo",
+	"image": "https://play-lh.googleusercontent.com/gnp9upnqL7pczwupMUINBMWIswkHuAm-kE4meNa-lDKWfO4H6hOdF8y3aESaLnEdH9Q=w480-h960-rw"
+},
+{
 	"eng": "소음측정기",
 	"name" : "Sound Meter (decibel meter)",
     "category": "etc",
