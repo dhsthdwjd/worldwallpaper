@@ -1,5 +1,13 @@
 [
 {
+	"eng": "교감일기 (냥냥이 버전)",
+	"name" : "Communion Diary (Only Cat)",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.JIMINQUOTE",
+	"image": "https://play-lh.googleusercontent.com/8Y7BsE8m4FrEdMPIm1Q23fmunsra2hctzgHiQ3hwb7lriLIl3222nRhOUayfd16DqF4R=w480-h960-rw"
+},
+{
 	"eng": "모두 - 모두의 다이어리",
 	"name" : "MODU (ALL-IN-ONE Diary)",
     "category": "etc",
