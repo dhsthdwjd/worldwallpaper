@@ -1,5 +1,13 @@
 [
 {
+	"eng": "먹방일기 - 맛있게 먹으면 0칼로리",
+	"name" : "Pig Diary - Food record Diary",
+    "category": "etc",
+	"rating": 5.0,
+	"package_name": "com.offsong.JUNGKOOKQUOTE",
+	"image": "https://play-lh.googleusercontent.com/SRK9Tm2cOMlCpwji1NiV-CrThGz8zs5jpcw9THivD4wCxID2xvuewxRZW5A4XS5s6g=w480-h960-rw"
+},
+{
 	"eng": "교감일기 (냥냥이 버전)",
 	"name" : "Communion Diary (Only Cat)",
     "category": "etc",
