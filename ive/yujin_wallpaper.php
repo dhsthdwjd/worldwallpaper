@@ -1510,7 +1510,6 @@
 "https://i.pinimg.com/originals/de/83/43/de83436312db78c447d2ee72de42bcb3.jpg",
 "https://i.pinimg.com/originals/0a/5f/a1/0a5fa1b6e0827b18df4d4a69a3acf84c.jpg",
 "https://i.pinimg.com/originals/9e/db/0d/9edb0dd5115f95e00c364266c26f565d.jpg",
-"https://i.pinimg.com/originals/d2/4e/88/d24e888373e05ca3c6f3beb1063d413a.jpg",
 "https://i.pinimg.com/originals/c4/d0/01/c4d00121d2405df7f6963f08680661b7.jpg",
 "https://i.pinimg.com/originals/5b/8e/5d/5b8e5d7fcf32e5596324f773d605b0ae.jpg",
 "https://i.pinimg.com/originals/b0/2f/9f/b02f9f39562042f8e3921d69ba1815eb.jpg",
