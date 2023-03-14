@@ -1,23 +1,93 @@
 [
   {
-    "name": "Premium",
-    "name_kor": "프리미엄",
+    "name": "IZ*ONE",
+    "name_kor": "아이즈원",
     "preview1": "",
     "preview2": "",
     "preview3": ""
   },
   {
-    "name": "Demon",
-    "name_kor": "귀멸의",
+    "name": "KWON EUN-BI",
+    "name_kor": "권은비",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+   {
+    "name": "SAKURA",
+    "name_kor": "사쿠라",
     "preview1": "",
     "preview2": "",
     "preview3": ""
   },
   {
-    "name": "Twelve",
-    "name_kor": "십이귀월",
+    "name": "KANG HYEWON",
+    "name_kor": "강혜원",
     "preview1": "",
     "preview2": "",
     "preview3": ""
+  },
+   {
+    "name": "YENA",
+    "name_kor": "최예나",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "LEE CHAEYEON",
+    "name_kor": "이채연",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+   {
+    "name": "KIM CHAEWON",
+    "name_kor": "김채원",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "KIM MINJU",
+    "name_kor": "김민주",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+   {
+    "name": "Nako Yabuki",
+    "name_kor": "야부키 나코",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Honda Hitomi",
+    "name_kor": "혼다 히토미",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+   {
+    "name": "JO YURI",
+    "name_kor": "조유리",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+ {
+    "name": "AN YUJIN",
+    "name_kor": "안유진",
+    "preview1": "https://i.pinimg.com/474x/75/28/cd/7528cd0d63effcd1e207dc11fe186efe.jpg",
+    "preview2": "https://i.pinimg.com/474x/b7/58/c5/b758c5569431eb3652110d314ea2b553.jpg",
+    "preview3": "https://i.pinimg.com/474x/07/57/ba/0757ba1fe7882786c734ed8bfb49b0c7.jpg"
+  },
+    {
+    "name": "JANG WONYOUNG",
+    "name_kor": "장원영",
+    "preview1": "https://i.pinimg.com/474x/13/df/8c/13df8c78086d9cd71618e2b3e747fea2.jpg",
+    "preview2": "https://i.pinimg.com/474x/02/5f/5a/025f5a6c8483018073a09e004eca0b48.jpg",
+    "preview3": "https://i.pinimg.com/474x/f3/f4/c9/f3f4c9610a49eae49af84bc66d140204.jpg"
   }
 ]
