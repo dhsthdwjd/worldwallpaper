@@ -128,7 +128,6 @@
 "https://i.pinimg.com/736x/bb/47/c4/bb47c4a55c54832b6e9abdf52fd3fada.jpg",
 "https://i.pinimg.com/736x/bb/46/92/bb4692b9157f3dc711132d4bbd9e3bbf.jpg",
 "https://i.pinimg.com/736x/bf/03/2e/bf032ea382388dab3ce5ad72e111db84.jpg",
-"https://i.pinimg.com/736x/c6/71/15/c67115b59863f577401ce8ef33797d64.jpg",
 "https://i.pinimg.com/736x/24/87/d7/2487d743f587ad4bfe107c913545b5e0.jpg",
 "https://i.pinimg.com/736x/86/9d/85/869d85ac4700160e0b38e0aadcc78d06.jpg",
 "https://i.pinimg.com/736x/b3/0f/be/b30fbe8eb9bf9c32546c0558306d757b.jpg",
