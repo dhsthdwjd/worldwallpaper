@@ -1,0 +1,72 @@
+[
+	{
+	"name": "Red",
+	"name_kor": "Red",
+	"preview1": "https://i.pinimg.com/474x/f5/66/20/f566206247fccdded4f1a5257e6b2717.jpg",
+	"preview2": "https://i.pinimg.com/474x/63/ce/9f/63ce9f8932e5f6e8035af50ffc105693.jpg",
+	"preview3": "https://i.pinimg.com/736x/3b/5b/ff/3b5bffdc3aebfdf49f8d9307dd16c251.jpg"
+	},
+	{
+	"name": "Orange",
+	"name_kor": "Orange",
+	"preview1": "https://i.pinimg.com/474x/d5/ff/0a/d5ff0ac58324225b6b4dbab3207751be.jpg",
+	"preview2": "https://i.pinimg.com/474x/29/db/9a/29db9a02ff64fc5442215a926da937b8.jpg",
+	"preview3": "https://i.pinimg.com/474x/a0/df/ad/a0dfada76a0cf6d575f99ddb57ea6897.jpg"
+	},
+	{
+	"name": "Yellow",
+	"name_kor": "Yellow",
+	"preview1": "https://i.pinimg.com/474x/ec/f8/ae/ecf8ae613b115cbfd158f2eae991a619.jpg",
+	"preview2": "https://i.pinimg.com/474x/75/6f/a3/756fa32a6cdd22200a540c23770aff1b.jpg",
+	"preview3": "https://i.pinimg.com/474x/80/70/24/8070240912c63c7e9c58aa4b657ec7e1.jpg"
+	},
+	{
+	"name": "Green",
+	"name_kor": "Green",
+	"preview1": "https://i.pinimg.com/474x/fa/2a/09/fa2a09c16b36865aa1d3349c808c27fb.jpg",
+	"preview2": "https://i.pinimg.com/474x/2c/55/3b/2c553be617b3fd90a2d5a3e977e6ae5e.jpg",
+	"preview3": "https://i.pinimg.com/474x/94/f6/33/94f633fb17752a1a1b41a154fd31ca5b.jpg"
+	},
+	{
+	"name": "Blue",
+	"name_kor": "Blue",
+	"preview1": "https://i.pinimg.com/474x/c3/f8/b9/c3f8b9491aef34e0df59a7cff7497ba4.jpg",
+	"preview2": "https://i.pinimg.com/474x/8d/a4/ed/8da4ed9bd68247df85b1b9b3918bd6e0.jpg",
+	"preview3": "https://i.pinimg.com/474x/36/b3/fb/36b3fb2fdbdc664029507a1bcaa5de9f.jpg"
+	},
+	{
+	"name": "Purple",
+	"name_kor": "Purple",
+	"preview1": "https://i.pinimg.com/474x/18/a4/64/18a464df631c1dc0305089bd93f163d8.jpg",
+	"preview2": "https://i.pinimg.com/474x/6e/04/2c/6e042c0abc9049947a4f0efc32e3059f.jpg",
+	"preview3": "https://i.pinimg.com/474x/99/f7/79/99f77925c06ef191dbec2bebfae6eb98.jpg"
+	},
+	{
+	"name": "Black",
+	"name_kor": "Black",
+	"preview1": "https://i.pinimg.com/474x/a8/b0/74/a8b0747b6a19b9d246164aa998f1795d.jpg",
+	"preview2": "https://i.pinimg.com/474x/db/8a/8d/db8a8d029ab50685734a395364309116.jpg",
+	"preview3": "https://i.pinimg.com/474x/aa/83/76/aa83760b06b4169194195f9797c3b524.jpg"
+	},
+	{
+	"name": "White",
+	"name_kor": "White",
+	"preview1": "https://i.pinimg.com/474x/d2/2a/5f/d22a5f484b2d9107cade3c910545a442.jpg",
+	"preview2": "https://i.pinimg.com/474x/ed/fa/73/edfa73b0fa1de2229cc8030ca1fb96cb.jpg",
+	"preview3": "https://i.pinimg.com/474x/b1/d4/02/b1d402d1b9ad5b1035fadddedf0e235b.jpg"
+	},
+	{
+	"name": "Gold",
+	"name_kor": "Gold",
+	"preview1": "https://i.pinimg.com/474x/d2/96/1d/d2961debd5b38f46473ef30bcab872af.jpg",
+	"preview2": "https://i.pinimg.com/474x/b0/ad/15/b0ad15f4bf692d53e74800e4c6a7c9d0.jpg",
+	"preview3": "https://i.pinimg.com/474x/d0/20/6a/d0206aaf2d4f1583e5036adbfc5e3a68.jpg"
+	},
+	{
+	"name": "Pink",
+	"name_kor": "Pink",
+	"preview1": "https://i.pinimg.com/474x/50/ce/43/50ce43819e8a5a536588c7e7327edfcd.jpg",
+	"preview2": "https://i.pinimg.com/474x/2b/46/e3/2b46e3b1fff64f96567ec18bf4560a60.jpg",
+	"preview3": "https://i.pinimg.com/474x/79/e5/24/79e5242d07f41ca634d7d07e479f37af.jpg"
+	}
+]
