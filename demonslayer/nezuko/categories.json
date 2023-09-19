@@ -1,9 +1,16 @@
 [
-        {
-       "name": "Nezuko Kamado",
-       "name_kor": "카마도 네즈코",
-       "preview1": "https://i.pinimg.com/474x/33/6b/2b/336b2b74b660615868d1e9fc8608e0d4.jpg",
-       "preview2": "https://i.pinimg.com/474x/02/d3/99/02d399afe16d21e9dc1d732e0c92fceb.jpg",
-       "preview3": "https://i.pinimg.com/474x/d8/5d/79/d85d7982a6f27cdf1ddc88dbdebc57ae.jpg"
-     }
+  {
+    "name": "Nezuko Kamado",
+    "name_kor": "카마도 네즈코",
+    "preview1": "https://i.pinimg.com/474x/33/6b/2b/336b2b74b660615868d1e9fc8608e0d4.jpg",
+    "preview2": "https://i.pinimg.com/474x/02/d3/99/02d399afe16d21e9dc1d732e0c92fceb.jpg",
+    "preview3": "https://i.pinimg.com/474x/d8/5d/79/d85d7982a6f27cdf1ddc88dbdebc57ae.jpg"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/7b/5b/ae/7b5baec6c7a093fa1a5b63df3eee96ff.jpg",
+    "preview2": "https://i.pinimg.com/474x/3f/00/01/3f000140dda77913f65f923acf686036.jpg",
+    "preview3": "https://i.pinimg.com/474x/b5/7f/f5/b57ff5abc0221ec5e37ef43939c13c39.jpg"
+  }
 ]
