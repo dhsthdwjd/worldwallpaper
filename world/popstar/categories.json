@@ -1,0 +1,93 @@
+[
+	{
+	    "name": "Ariana Grande",
+	    "name_kor": "아리아나 그란데",
+	    "preview1": "https://i.pinimg.com/474x/05/fc/f2/05fcf2b3a905b9e4fc7d7d351f80efad.jpg",
+	    "preview2": "https://i.pinimg.com/474x/00/f5/28/00f528a62286f5e5a78353da0357d7cd.jpg",
+	    "preview3": "https://i.pinimg.com/474x/7f/a5/31/7fa5319847cb391a9c9b7c0acbf828ef.jpg"
+	  },
+	{
+		"name": "Beyonce",
+		"name_kor": "비욘세",
+		"preview1": "https://i.pinimg.com/474x/d1/e2/3e/d1e23ef725c8604395a780b45982bc80.jpg",
+		"preview2": "https://i.pinimg.com/474x/9e/d7/82/9ed7827afaf813a5b1dbfe770ca0dc08.jpg",
+		"preview3": "https://i.pinimg.com/474x/db/62/97/db629796ee1438e6f5072c5dda7ffc77.jpg"
+	},
+	{
+		"name": "Billie Eilish",
+		"name_kor": "빌리 아일리시",
+		"preview1": "https://i.pinimg.com/474x/83/46/f9/8346f91119be88c756117396d7104a83.jpg",
+		"preview2": "https://i.pinimg.com/474x/71/0f/d2/710fd2f3a86f6c71329081cdaed7899b.jpg",
+		"preview3": "https://i.pinimg.com/474x/3a/85/10/3a85104f0d1284d82d274d8e7bd48b60.jpg"
+	},
+	{
+		"name": "Chris Brown",
+		"name_kor": "크리스 브라운",
+		"preview1": "https://i.pinimg.com/474x/d1/4a/22/d14a22f75f57464e0fd4318363ae004c.jpg",
+		"preview2": "https://i.pinimg.com/474x/2a/8c/f8/2a8cf8c344acfaaff300b411091f9fd1.jpg",
+		"preview3": "https://i.pinimg.com/474x/81/2f/5e/812f5e5beacffbc115f493bb1957e3a9.jpg"
+	},
+	{
+		"name": "Drake",
+		"name_kor": "드레이크",
+		"preview1": "https://i.pinimg.com/474x/dd/c2/60/ddc260a35ff9054a0b9b9acaa39888b3.jpg",
+		"preview2": "https://i.pinimg.com/474x/76/9a/a3/769aa3416e6f937831373dc11565d938.jpg",
+		"preview3": "https://i.pinimg.com/474x/8d/01/b8/8d01b8925aa9b6364108eb2ec78a32bc.jpg"
+	},
+	{
+		"name": "Dua Lipa",
+		"name_kor": "두아 리파",
+		"preview1": "https://i.pinimg.com/474x/83/73/8f/83738f85bc62d4274425711718b4e846.jpg",
+		"preview2": "https://i.pinimg.com/474x/cc/1d/5c/cc1d5c071360a03a9219a396a4b9bba3.jpg",
+		"preview3": "https://i.pinimg.com/474x/a1/41/37/a1413738cd98ad999e827962edff8c90.jpg"
+	},
+	{
+		"name": "Justin Bieber",
+		"name_kor": "저스틴 비버",
+		"preview1": "https://i.pinimg.com/474x/a7/02/da/a702da144fbaec3e3287dc663c76ce1a.jpg",
+		"preview2": "https://i.pinimg.com/474x/8d/32/85/8d32853911be4e263d13c63c49218ac4.jpg",
+		"preview3": "https://i.pinimg.com/474x/ec/ba/15/ecba15a3fe465044d19ef3cd3b2a9548.jpg"
+	},
+	{
+		"name": "Lady Gaga",
+		"name_kor": "레이디 가가",
+		"preview1": "https://i.pinimg.com/474x/de/79/ad/de79adce4eee80d710e3872ab2f28795.jpg",
+		"preview2": "https://i.pinimg.com/474x/22/be/11/22be1145565b92f33f4a324df7bbfc49.jpg",
+		"preview3": "https://i.pinimg.com/474x/79/57/90/795790bf79f454af0aed08d5d4201926.jpg"
+	},
+	{
+		"name": "Miley Cyrus",
+		"name_kor": "마일리 사이러스",
+		"preview1": "https://i.pinimg.com/474x/77/87/7a/77877a8144fedfd744807787ea015b2f.jpg",
+		"preview2": "https://i.pinimg.com/474x/21/ca/74/21ca745a331a9823239b77eacc9ac701.jpg",
+		"preview3": "https://i.pinimg.com/474x/92/7f/23/927f2318125dc8a89220961f1c63beb4.jpg"
+	},
+	{
+		"name": "Olivia Rodrigo",
+		"name_kor": "올리비아 로드리고",
+		"preview1": "https://i.pinimg.com/474x/97/6c/69/976c69305c131eb6ee98d4a25f4c1fc5.jpg",
+		"preview2": "https://i.pinimg.com/474x/87/46/37/8746370c20946733cf1831b2ac27d6cd.jpg",
+		"preview3": "https://i.pinimg.com/474x/25/25/a2/2525a2d2ad82e7ebbf09c54097b27a9d.jpg"
+	},
+	{
+		"name": "Selena Gomez",
+		"name_kor": "셀레나 고메즈",
+		"preview1": "https://i.pinimg.com/474x/1c/26/c1/1c26c1340ffbc92c03b1fbb17932cc6e.jpg",
+		"preview2": "https://i.pinimg.com/474x/44/ef/18/44ef18ba26874cb0f54f316fbff20a1b.jpg",
+		"preview3": "https://i.pinimg.com/474x/2f/89/bd/2f89bdd065004509d8cc22e45b93c194.jpg"
+	},
+	{
+		"name": "Shakira",
+		"name_kor": "샤키라",
+		"preview1": "https://i.pinimg.com/474x/dc/cc/9f/dccc9f7d2bbc3e8ace2a2b52bc5b3226.jpg",
+		"preview2": "https://i.pinimg.com/474x/b5/55/f5/b555f5c79dd3aea83d2ee46a5baab3fd.jpg",
+		"preview3": "https://i.pinimg.com/474x/fc/5a/bd/fc5abd5b77b7161259fb45ebfa677449.jpg"
+	},
+	{
+		"name": "Taylor Swift",
+		"name_kor": "테일러 스위프트",
+		"preview1": "https://i.pinimg.com/474x/9c/f9/21/9cf9216871211fc24eca78ae90f4cbad.jpg",
+		"preview2": "https://i.pinimg.com/474x/60/81/03/6081033ee943d8c4963d9a92a41b7a21.jpg",
+		"preview3": "https://i.pinimg.com/474x/4d/42/a0/4d42a0062fc50ba5a702ebef64d3782f.jpg"
+	}
+]
