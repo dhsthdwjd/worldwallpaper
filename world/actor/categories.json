@@ -1,10 +1,80 @@
 [
   {
+    "name": "Andrew Garfield",
+    "name_kor": "앤드류 가필드",
+    "preview1": "https://i.pinimg.com/474x/93/fa/c8/93fac866718cf23ef03213bee5fa1e3c.jpg",
+    "preview2": "https://i.pinimg.com/474x/09/b6/f1/09b6f17ee6eee16a2d011102dfa43212.jpg",
+    "preview3": "https://i.pinimg.com/474x/03/f2/9a/03f29aff480e42e4a989d4900565a145.jpg"
+  },
+  {
+    "name": "Anne Hathaway",
+    "name_kor": "앤 해서웨이",
+    "preview1": "https://i.pinimg.com/474x/46/d7/2c/46d72c355ead36456847c2e6581f90ba.jpg",
+    "preview2": "https://i.pinimg.com/474x/f3/b9/99/f3b99991459d25b76462933182bab314.jpg",
+    "preview3": "https://i.pinimg.com/474x/4b/a8/2b/4ba82bd5cbc0f1cec29185807d3efe0f.jpg"
+  },
+  {
+    "name": "Benedict Cumberbatch",
+    "name_kor": "베네딕트 컴버배치",
+    "preview1": "https://i.pinimg.com/474x/76/d2/23/76d223fb8f24f0967262156fae19950a.jpg",
+    "preview2": "https://i.pinimg.com/474x/1c/50/a2/1c50a28295a721d07e1bbe242510120f.jpg",
+    "preview3": "https://i.pinimg.com/474x/22/da/4d/22da4d2f4efaa254c2ec9df30af4e348.jpg"
+  },
+  {
+    "name": "Chloë Moretz",
+    "name_kor": "클로이 모레츠",
+    "preview1": "https://i.pinimg.com/474x/4c/65/c6/4c65c61a29621cd79d61e4ee48096be0.jpg",
+    "preview2": "https://i.pinimg.com/474x/e1/8f/fa/e18ffa1e68ddb34dd5d872c7ca7fde73.jpg",
+    "preview3": "https://i.pinimg.com/474x/c0/8e/95/c08e95c8ac4da7ec2d235ff03ce38d19.jpg"
+  },
+  {
+    "name": "Chris Evans",
+    "name_kor": "크리스 에반스",
+    "preview1": "https://i.pinimg.com/474x/90/29/31/90293156566a060ef889857aa5d87062.jpg",
+    "preview2": "https://i.pinimg.com/474x/5f/03/56/5f0356e87caa8ec567f74887e22a45a0.jpg",
+    "preview3": "https://i.pinimg.com/474x/98/b4/93/98b4933879b6e7045766a3376133fe88.jpg"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "name_kor": "크리스 헴스워스",
+    "preview1": "https://i.pinimg.com/474x/9f/ba/8c/9fba8c4a7827845f6029cfcfc2f5177a.jpg",
+    "preview2": "https://i.pinimg.com/474x/20/36/92/2036926cee972c7e0f63551571d8f3bd.jpg",
+    "preview3": "https://i.pinimg.com/474x/2c/dd/e0/2cdde00372b70ae1b23117f730893aaa.jpg"
+  },
+  {
     "name": "Dwayne Johnson",
     "name_kor": "드웨인 존슨",
     "preview1": "https://i.pinimg.com/474x/9f/7f/39/9f7f39c6d98be87028edf310f8013a1b.jpg",
     "preview2": "https://i.pinimg.com/474x/4f/86/1c/4f861c559b1ab9f4d1bf8e1a5160762b.jpg",
     "preview3": "https://i.pinimg.com/474x/a3/9d/fe/a39dfef3a452ef009e1a588cb3484cce.jpg"
+  },
+  {
+    "name": "Emma Watson",
+    "name_kor": "엠마 왓슨",
+    "preview1": "https://i.pinimg.com/474x/dd/86/b6/dd86b635382fd8047919b6c32188b096.jpg",
+    "preview2": "https://i.pinimg.com/474x/03/f2/80/03f2809b273308791c807c5b51de83d2.jpg",
+    "preview3": "https://i.pinimg.com/474x/ed/45/0f/ed450f16f7ba933ea8fab30233ad9cd5.jpg"
+  },
+  {
+    "name": "Gal Gadot",
+    "name_kor": "갤 가돗",
+    "preview1": "https://i.pinimg.com/474x/b3/79/0e/b3790e1ae78170d0cdb7726c8e04b2f8.jpg",
+    "preview2": "https://i.pinimg.com/474x/70/06/f3/7006f318901559537803dd900c34ae7f.jpg",
+    "preview3": "https://i.pinimg.com/474x/8b/23/4d/8b234d82aff3bb98a8c5ef243c55aa8c.jpg"
+  },
+  {
+    "name": "Lily James",
+    "name_kor": "릴리 제임스",
+    "preview1": "https://i.pinimg.com/474x/ec/d6/fd/ecd6fd2ce260eb726d6c9bd2766ccb0a.jpg",
+    "preview2": "https://i.pinimg.com/474x/a7/db/58/a7db5807aef8dbfe8561a485c60db588.jpg",
+    "preview3": "https://i.pinimg.com/474x/ce/d9/a4/ced9a45856aad63a0fc6704b1951ebad.jpg"
+  },
+  {
+    "name": "Margot Robbie",
+    "name_kor": "마고 로비",
+    "preview1": "https://i.pinimg.com/474x/b4/9e/d5/b49ed5a8f4c8d277aa5f237548b8d076.jpg",
+    "preview2": "https://i.pinimg.com/474x/9a/f1/00/9af100ddad1b58d3eb77ec09e2ea273d.jpg",
+    "preview3": "https://i.pinimg.com/474x/a6/99/26/a699264e1b2ed1f8de682452c9c08d01.jpg"
   },
   {
     "name": "Scarlett Johansson",
@@ -14,10 +84,38 @@
     "preview3": "https://i.pinimg.com/474x/0a/b6/f7/0ab6f73749074aa1d06ec9eb0e04c937.jpg"
   },
   {
+    "name": "Timothée Chalamet",
+    "name_kor": "티모시 샬라메",
+    "preview1": "https://i.pinimg.com/474x/6e/28/f5/6e28f5a817872cf2e54e5b39c3e99813.jpg",
+    "preview2": "https://i.pinimg.com/474x/b5/ac/5d/b5ac5dd38e38d083fe0566ac51dad2bc.jpg",
+    "preview3": "https://i.pinimg.com/474x/44/3d/d8/443dd8dfb4119e6cdf5d772765c01a22.jpg"
+  },
+  {
+    "name": "Tom Hardy",
+    "name_kor": "톰 하디",
+    "preview1": "https://i.pinimg.com/474x/bc/cb/81/bccb8118353cf87ed50e91829e0ed256.jpg",
+    "preview2": "https://i.pinimg.com/474x/c7/fd/d7/c7fdd75ca378141278d236e2514e3262.jpg",
+    "preview3": "https://i.pinimg.com/474x/24/96/8f/24968f4d1642d18a3c84e487606f326a.jpg"
+  },
+  {
+    "name": "Tom Hiddleston",
+    "name_kor": "톰 히들스턴",
+    "preview1": "https://i.pinimg.com/474x/63/41/2a/63412acbb3e0156d2027cc81c9ca50c7.jpg",
+    "preview2": "https://i.pinimg.com/474x/aa/3f/0c/aa3f0cc37a41a69442b2356170a3c44e.jpg",
+    "preview3": "https://i.pinimg.com/474x/ed/1d/2a/ed1d2ad446d75c7977e9b1c3646a1bb6.jpg"
+  },
+  {
     "name": "Tom Holland",
     "name_kor": "톰 홀랜드",
     "preview1": "https://i.pinimg.com/474x/38/d1/27/38d12794b2a9ddbdcc71bc4d2af21398.jpg",
     "preview2": "https://i.pinimg.com/474x/63/70/e9/6370e98772ef0db3449a49ddd501c459.jpg",
     "preview3": "https://i.pinimg.com/474x/b2/ca/e7/b2cae7ae3760137118417df34005f4e8.jpg"
+  },
+  {
+    "name": "Zendaya",
+    "name_kor": "젠데이아",
+    "preview1": "https://i.pinimg.com/474x/ce/d0/5c/ced05ccced6b1b5b4576d1692face899.jpg",
+    "preview2": "https://i.pinimg.com/474x/ac/62/b3/ac62b3dcbed2c0c3335f462ff5016f1f.jpg",
+    "preview3": "https://i.pinimg.com/474x/fd/8b/dc/fd8bdc07259554e83e181af1ff6b1beb.jpg"
   }
 ]
