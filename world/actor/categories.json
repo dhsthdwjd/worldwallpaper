@@ -1,5 +1,12 @@
 [
   {
+    "name": "Amber Heard",
+    "name_kor": "앰버 허드",
+    "preview1": "https://i.pinimg.com/474x/dc/af/db/dcafdb4a1815f11d732b97e3599a1a35.jpg",
+    "preview2": "https://i.pinimg.com/474x/b0/88/f3/b088f35ff42a07afc4957bcfbd7611ce.jpg",
+    "preview3": "https://i.pinimg.com/474x/76/02/37/760237aea40d97a549e2564dea374698.jpg"
+  },
+  {
     "name": "Andrew Garfield",
     "name_kor": "앤드류 가필드",
     "preview1": "https://i.pinimg.com/474x/93/fa/c8/93fac866718cf23ef03213bee5fa1e3c.jpg",
@@ -33,6 +40,27 @@
     "preview1": "https://i.pinimg.com/474x/76/d2/23/76d223fb8f24f0967262156fae19950a.jpg",
     "preview2": "https://i.pinimg.com/474x/1c/50/a2/1c50a28295a721d07e1bbe242510120f.jpg",
     "preview3": "https://i.pinimg.com/474x/22/da/4d/22da4d2f4efaa254c2ec9df30af4e348.jpg"
+  },
+  {
+    "name": "Brad Pitt",
+    "name_kor": "브래드 피트",
+    "preview1": "https://i.pinimg.com/474x/8d/71/8a/8d718a0183784a4f7575fa65e7a8847d.jpg",
+    "preview2": "https://i.pinimg.com/564x/06/2f/c5/062fc5a0b827541c3fd2a633bd2d43d1.jpg",
+    "preview3": "https://i.pinimg.com/474x/bd/ff/9a/bdff9a91de40dbdfcbf966dd910933e6.jpg"
+  },
+  {
+    "name": "Bradley Cooper",
+    "name_kor": "브래들리 쿠퍼",
+    "preview1": "https://i.pinimg.com/474x/91/fa/8d/91fa8db38d6ab5d7d529c29e080cb2ae.jpg",
+    "preview2": "https://i.pinimg.com/474x/1b/ba/f5/1bbaf5a85c4cb4ef452d537393daabe9.jpg",
+    "preview3": "https://i.pinimg.com/474x/ff/72/b0/ff72b0306ef2a74e839f574a5b6dbbfa.jpg"
+  },
+  {
+    "name": "Charlize Theron",
+    "name_kor": "샤를리즈 테론",
+    "preview1": "https://i.pinimg.com/474x/fa/f7/fc/faf7fcfefcfc2d607009e291e3430fbc.jpg",
+    "preview2": "https://i.pinimg.com/474x/1d/5a/e8/1d5ae854b6219c4555deb37f970ac206.jpg",
+    "preview3": "https://i.pinimg.com/474x/19/f5/00/19f500595dbe087f127f3c90e8c5a14e.jpg"
   },
   {
     "name": "Chloë Moretz",
@@ -124,6 +152,13 @@
     "preview1": "https://i.pinimg.com/474x/b4/9e/d5/b49ed5a8f4c8d277aa5f237548b8d076.jpg",
     "preview2": "https://i.pinimg.com/474x/9a/f1/00/9af100ddad1b58d3eb77ec09e2ea273d.jpg",
     "preview3": "https://i.pinimg.com/474x/a6/99/26/a699264e1b2ed1f8de682452c9c08d01.jpg"
+  },
+  {
+    "name": "Robert Downey Jr",
+    "name_kor": "로버트 다우니 주니어",
+    "preview1": "https://i.pinimg.com/474x/be/19/bd/be19bd6e93155b7af0b62cd70150973f.jpg",
+    "preview2": "https://i.pinimg.com/474x/17/51/c9/1751c91ce38f71358af86287ddbbe327.jpg",
+    "preview3": "https://i.pinimg.com/474x/80/96/39/809639f35b864956f4fc383c67251824.jpg"
   },
   {
     "name": "Scarlett Johansson",
