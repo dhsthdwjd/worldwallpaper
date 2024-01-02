@@ -1,5 +1,12 @@
 [
   {
+    "name": "Scarlett Johansson",
+    "name_kor": "스칼렛 요한슨",
+    "preview1": "https://i.pinimg.com/474x/89/76/1a/89761a2551a0ab2aaaded55bb58a1307.jpg",
+    "preview2": "https://i.pinimg.com/474x/fa/c1/8d/fac18d60698b617fabcae766b414d29d.jpg",
+    "preview3": "https://i.pinimg.com/474x/0a/b6/f7/0ab6f73749074aa1d06ec9eb0e04c937.jpg"
+  },
+  {
     "name": "Tom Holland",
     "name_kor": "톰 홀랜드",
     "preview1": "https://i.pinimg.com/474x/38/d1/27/38d12794b2a9ddbdcc71bc4d2af21398.jpg",
