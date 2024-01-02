@@ -7,11 +7,25 @@
     "preview3": "https://i.pinimg.com/474x/03/f2/9a/03f29aff480e42e4a989d4900565a145.jpg"
   },
   {
+    "name": "Angelina Jolie",
+    "name_kor": "안젤리나 졸리",
+    "preview1": "https://i.pinimg.com/474x/16/cc/5b/16cc5b9fbaa48823d3bcb641e1f9477d.jpg",
+    "preview2": "https://i.pinimg.com/474x/37/fb/3c/37fb3cc3a0c6ec0df1de21f1e5acaf70.jpg",
+    "preview3": "https://i.pinimg.com/474x/5a/3d/b1/5a3db12300140fbf346bfbe95808ba26.jpg"
+  },
+  {
     "name": "Anne Hathaway",
     "name_kor": "앤 해서웨이",
     "preview1": "https://i.pinimg.com/474x/46/d7/2c/46d72c355ead36456847c2e6581f90ba.jpg",
     "preview2": "https://i.pinimg.com/474x/f3/b9/99/f3b99991459d25b76462933182bab314.jpg",
     "preview3": "https://i.pinimg.com/474x/4b/a8/2b/4ba82bd5cbc0f1cec29185807d3efe0f.jpg"
+  },
+  {
+    "name": "Anya Taylor-Joy",
+    "name_kor": "안야 테일러조이",
+    "preview1": "https://i.pinimg.com/474x/d8/fe/b2/d8feb205510cbab14cd9f93bf1e5977c.jpg",
+    "preview2": "https://i.pinimg.com/474x/07/43/b1/0743b1e1be391bd76a6c3fceab25795b.jpg",
+    "preview3": "https://i.pinimg.com/474x/05/38/90/053890efa8b8a8790d924f3d84475f46.jpg"
   },
   {
     "name": "Benedict Cumberbatch",
@@ -49,6 +63,20 @@
     "preview3": "https://i.pinimg.com/474x/a3/9d/fe/a39dfef3a452ef009e1a588cb3484cce.jpg"
   },
   {
+    "name": "Elizabeth Olsen",
+    "name_kor": "엘리자베스 올슨",
+    "preview1": "https://i.pinimg.com/474x/28/5b/2c/285b2c201c3a1deaa3ac4b0b46a70a88.jpg",
+    "preview2": "https://i.pinimg.com/474x/f9/cc/16/f9cc164cdaab36bbb1320ef1506ed3ac.jpg",
+    "preview3": "https://i.pinimg.com/474x/5e/62/d2/5e62d232c010958a96c74c2f81073a65.jpg"
+  },
+  {
+    "name": "Emilia Clarke",
+    "name_kor": "에밀리아 클라크",
+    "preview1": "https://i.pinimg.com/474x/58/97/52/589752c664354ec1dcd884646dd983ea.jpg",
+    "preview2": "https://i.pinimg.com/474x/5d/53/69/5d53695ba160deb079a5da2b683f2109.jpg",
+    "preview3": "https://i.pinimg.com/474x/7c/48/a9/7c48a9b3fbaa47e1da2d70227c933226.jpg"
+  },
+  {
     "name": "Emma Watson",
     "name_kor": "엠마 왓슨",
     "preview1": "https://i.pinimg.com/474x/dd/86/b6/dd86b635382fd8047919b6c32188b096.jpg",
@@ -61,6 +89,13 @@
     "preview1": "https://i.pinimg.com/474x/b3/79/0e/b3790e1ae78170d0cdb7726c8e04b2f8.jpg",
     "preview2": "https://i.pinimg.com/474x/70/06/f3/7006f318901559537803dd900c34ae7f.jpg",
     "preview3": "https://i.pinimg.com/474x/8b/23/4d/8b234d82aff3bb98a8c5ef243c55aa8c.jpg"
+  },
+  {
+    "name": "Hugh Jackman",
+    "name_kor": "휴 잭맨",
+    "preview1": "https://i.pinimg.com/474x/98/8d/16/988d16ed55058448f815f71a09b7127c.jpg",
+    "preview2": "https://i.pinimg.com/474x/d7/c3/90/d7c39000c8c5024c46b11cfc8d898a67.jpg",
+    "preview3": "https://i.pinimg.com/474x/fb/e4/84/fbe48489817730ffecef0956c5a68749.jpg"
   },
   {
     "name": "Lily James",
@@ -89,6 +124,13 @@
     "preview1": "https://i.pinimg.com/474x/6e/28/f5/6e28f5a817872cf2e54e5b39c3e99813.jpg",
     "preview2": "https://i.pinimg.com/474x/b5/ac/5d/b5ac5dd38e38d083fe0566ac51dad2bc.jpg",
     "preview3": "https://i.pinimg.com/474x/44/3d/d8/443dd8dfb4119e6cdf5d772765c01a22.jpg"
+  },
+  {
+    "name": "Tom Cruise",
+    "name_kor": "톰 크루즈",
+    "preview1": "https://i.pinimg.com/474x/f6/0a/df/f60adf21760cae519e58d2306fdf02a8.jpg",
+    "preview2": "https://i.pinimg.com/474x/32/67/73/3267737264e0e3e7b1ff41e229a573b2.jpg",
+    "preview3": "https://i.pinimg.com/474x/35/89/9e/35899ee8928672b0ddc4702337bb55a2.jpg"
   },
   {
     "name": "Tom Hardy",
