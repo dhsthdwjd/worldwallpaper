@@ -1,0 +1,66 @@
+[
+  {
+    "name": "IVE",
+    "name_kor": "아이브",
+    "preview1": "https://i.pinimg.com/474x/60/06/07/60060764ed6745e2c8a3b6721ae66b3a.jpg",
+    "preview2": "https://i.pinimg.com/736x/a6/44/8a/a6448a74ceb1c694c76c75bd9d37a6bd.jpg",
+    "preview3": "https://i.pinimg.com/474x/bd/95/e3/bd95e32ca5e3ec075777264b05a290cd.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/31/f5/79/31f57987744b29d21d762a913f913d43.gif",
+    "preview2": "https://i.pinimg.com/originals/18/c3/37/18c33719d3931562a3c5a5df4a0dbcab.gif",
+    "preview3": "https://i.pinimg.com/originals/11/56/0b/11560bd74264c9f52b5f39e0b72f7042.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/00/f7/35/00f7356919b7963615696e7bac2b24fc.jpg",
+    "preview2": "https://i.pinimg.com/474x/01/e0/a7/01e0a788a89baca886bc187ae41b2c95.jpg",
+    "preview3": "https://i.pinimg.com/474x/02/84/fa/0284faba08dd598293a93b19b15c84ec.jpg"
+  },
+  {
+    "name": "AN YUJIN",
+    "name_kor": "안유진",
+    "preview1": "https://i.pinimg.com/474x/75/28/cd/7528cd0d63effcd1e207dc11fe186efe.jpg",
+    "preview2": "https://i.pinimg.com/474x/b7/58/c5/b758c5569431eb3652110d314ea2b553.jpg",
+    "preview3": "https://i.pinimg.com/474x/07/57/ba/0757ba1fe7882786c734ed8bfb49b0c7.jpg"
+  },
+    {
+    "name": "JANG WONYOUNG",
+    "name_kor": "장원영",
+    "preview1": "https://i.pinimg.com/474x/13/df/8c/13df8c78086d9cd71618e2b3e747fea2.jpg",
+    "preview2": "https://i.pinimg.com/474x/02/5f/5a/025f5a6c8483018073a09e004eca0b48.jpg",
+    "preview3": "https://i.pinimg.com/474x/f3/f4/c9/f3f4c9610a49eae49af84bc66d140204.jpg"
+  },
+     {
+    "name": "GAEUL",
+    "name_kor": "가을",
+    "preview1": "https://i.pinimg.com/474x/e5/1d/45/e51d4504b2dca0406b3e20efa0813c72.jpg",
+    "preview2": "https://i.pinimg.com/474x/e6/d1/3a/e6d13a7c617c148f5b310be6e318cc40.jpg",
+    "preview3": "https://i.pinimg.com/474x/34/ff/6e/34ff6e38978a0514edc3273395fb4eb9.jpg"
+  },
+  {
+    "name": "REI",
+    "name_kor": "레이",
+    "preview1": "https://i.pinimg.com/474x/6d/90/28/6d902866d7e7330eeed759e8389de50d.jpg",
+    "preview2": "https://i.pinimg.com/474x/bd/5f/64/bd5f649b06f5407529c64fd5b93ecd7a.jpg",
+    "preview3": "https://i.pinimg.com/474x/bf/1a/c3/bf1ac38c8012260cd5382c39517d202d.jpg"
+  },
+    {
+    "name": "LIZ",
+    "name_kor": "리즈",
+    "preview1": "https://i.pinimg.com/474x/ea/a3/6b/eaa36b2cd13816b9e33e71f06194db3c.jpg",
+    "preview2": "https://i.pinimg.com/474x/9f/87/fa/9f87faaa2a6d73d7e1b314601f2d784d.jpg",
+    "preview3": "https://i.pinimg.com/474x/35/1f/e5/351fe5d04a4c7a5b4de97a9c85577e53.jpg"
+  },
+      {
+    "name": "LEESEO",
+    "name_kor": "이서",
+    "preview1": "https://i.pinimg.com/474x/4d/5a/ca/4d5aca4c9af9e02e2ed8c990b679f2bb.jpg",
+    "preview2": "https://i.pinimg.com/474x/52/62/f9/5262f94babeceb7a4c9b1a7c02d5ee91.jpg",
+    "preview3": "https://i.pinimg.com/474x/10/89/e4/1089e4b74960bbb589adb871d5659b7f.jpg"
+  }
+  
+]
