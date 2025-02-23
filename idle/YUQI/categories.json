@@ -7,6 +7,13 @@
 	    "preview3": "https://i.pinimg.com/474x/c8/73/0d/c8730db175c00603469fbbcf38a63cc8.jpg"
 	  },
 	{
+		"name": "gif",
+		"name_kor": "gif",
+		"preview1": "https://i.pinimg.com/originals/c8/76/4b/c8764baeea871b390533c0795e5950a5.gif",
+		"preview2": "https://i.pinimg.com/originals/d8/10/ab/d810ab4f916bc5ca833532edf0787d86.gif",
+		"preview3": "https://i.pinimg.com/originals/f3/6f/f8/f36ff873dd13fb110461703458261a50.gif"
+	},
+	{
 		"name": "icon",
 		"name_kor": "아이콘",
 		"preview1": "https://i.pinimg.com/474x/d2/54/d1/d254d1294ecdfb07596cd911295c6c03.jpg",
